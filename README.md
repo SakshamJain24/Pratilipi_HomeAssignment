@@ -1,5 +1,3 @@
-# README
-
 ## Project Overview
 This project builds a **personalized recommendation system** for Pratilipi stories using **Alternating Least Squares (ALS)** collaborative filtering. It processes user interactions, applies feature engineering, and trains an implicit feedback model to recommend relevant stories.
 
