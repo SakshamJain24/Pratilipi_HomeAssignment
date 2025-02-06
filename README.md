@@ -38,6 +38,3 @@ pip install numpy pandas matplotlib seaborn scipy implicit tqdm pickle
 - **Trained Model**: ALS-based recommendation model.
 - **Predictions**: Dictionary of top 5 recommended stories per user.
 - **Saved Model & Mappings**: Serialized files for future use.
-
-## Contact
-For any questions, reach out to the project owner.
